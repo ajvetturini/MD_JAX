@@ -1,5 +1,5 @@
 # MD_JAX
-This is a collection of Jupyter notebooks showing how to combine JAX with MD solutions in an easy-to-read fashion. If looking for a full fledged MD package using JAX primitives, please see https://github.com/jax-md/jax-md
+This is a collection of Jupyter notebooks showing how to combine JAX with MD solutions in an easy-to-read fashion. If looking for a full fledged MD package using JAX, please see https://github.com/jax-md/jax-md. If you are unfamiliar with JAX in general, I recommend going to the start page of the readthedocs here: https://jax.readthedocs.io/en/latest/beginner_guide.html#beginner-guide. 
 
 ## Description of Notebooks
 1)   Simple_Classes.ipynb | This notebook shows & documents a simple class using jax that leverages various capabilities. While jax is meant to be a functional programming approach, it can still be leveraged with custom datastructures! This procedure requires the use of functool's partial operator, and there are some specific limitations that must always be considered when using custom classes with JAX.
