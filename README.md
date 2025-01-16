@@ -1,4 +1,4 @@
-# MD_JAX
+# Using jax for computational materials science!
 This is a collection of Jupyter notebooks showing how to combine JAX with MD solutions in an easy-to-read fashion. If looking for a full fledged MD package using JAX, please see https://github.com/jax-md/jax-md. If you are unfamiliar with JAX in general, I recommend going to the start page of the readthedocs here: https://jax.readthedocs.io/en/latest/beginner_guide.html#beginner-guide. 
 
 ## Description of Notebooks
